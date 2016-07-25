@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="线性纵向"
+        android:id="@+id/ll_v"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="线性横向"
+        android:id="@+id/ll_h"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="网格"
+        android:id="@+id/gv"
+        app:showAsAction="never"
+        />
+</menu>
